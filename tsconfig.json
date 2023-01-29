@@ -6,8 +6,8 @@
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
     "paths": {
-      "dt-ng-tools-lib": [
-        "dist/dt-ng-tools-lib"
+      "dt-reactive-forms": [
+        "dist/dt-reactive-forms"
       ]
     },
     "strict": true,
